@@ -1,0 +1,643 @@
+Species_name,Family,Genus,Species_epithet,Seed_weight,Seed_weight_source,Mating_system,Mating_system_source,Growth_form,Growth_form_herb,Growth_form_source
+Abrotanella_emarginata,Asteraceae,Abrotanella,emarginata,0.1024,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Achillea_atrata,Asteraceae,Achillea,atrata,0.2424,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Achillea_clusiana,Asteraceae,Achillea,clusiana,0.326,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Achillea_collina,Asteraceae,Achillea,collina,0.117,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Achillea_millefolium,Asteraceae,Achillea,millefolium,0.231,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Achillea_ptarmica,Asteraceae,Achillea,ptarmica,0.31,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Achyrachaena_mollis,Asteraceae,Achyrachaena,mollis,3.741,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Adenocaulon_bicolor,Asteraceae,Adenocaulon,bicolor,5.539,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Adenocaulon_chilense,Asteraceae,Adenocaulon,chilense,5.1128,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Ageratina_adenophora,Asteraceae,Ageratina,adenophora,0.055,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Ageratina_ligustrina,Asteraceae,Ageratina,ligustrina,0.2896,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Ageratum_conyzoides,Asteraceae,Ageratum,conyzoides,0.1288,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Ageratum_houstonianum,Asteraceae,Ageratum,houstonianum,0.1224,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Anthemis_arvensis,Asteraceae,Anthemis,arvensis,0.7232,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Anthemis_cotula,Asteraceae,Anthemis,cotula,0.43,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arctium_minus,Asteraceae,Arctium,minus,8.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arctotis_fastuosa,Asteraceae,Arctotis,fastuosa,0.754,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Argyranthemum_sundingii,Asteraceae,Argyranthemum,sundingii,0.6,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Arnica_montana,Asteraceae,Arnica,montana,1.1577,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arnica_sororia,Asteraceae,Arnica,sororia,0.8505,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Aster_acuminatus,Asteraceae,Aster,acuminatus,0.44,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aster_amellus,Asteraceae,Aster,amellus,0.84,Seed Information Database,SI,Castro et al. (2010),Herb,Herb,Engemann et al. (2016)
+Aster_laevis,Asteraceae,Aster,laevis,0.306,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aster_puniceus,Asteraceae,Aster,puniceus,0.132,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aster_subulatus,Asteraceae,Aster,subulatus,0.07,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aster_tripolium,Asteraceae,Aster,tripolium,0.41,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Asteriscus_aquaticus,Asteraceae,Asteriscus,aquaticus,0.7896,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Asteriscus_graveolens,Asteraceae,Asteriscus,graveolens,0.397,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Asteriscus_intermedius,Asteraceae,Asteriscus,intermedius,0.4556,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Balsamorhiza_sagittata,Asteraceae,Balsamorhiza,sagittata,5.54,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_aristosa,Asteraceae,Bidens,aristosa,2.101,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_bipinnata,Asteraceae,Bidens,bipinnata,2.54,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_cernua,Asteraceae,Bidens,cernua,2.1999,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_discoidea,Asteraceae,Bidens,discoidea,1.4,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_frondosa,Asteraceae,Bidens,frondosa,4.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_laevis,Asteraceae,Bidens,laevis,2.139,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_odorata,Asteraceae,Bidens,odorata,1.24,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_pilosa,Asteraceae,Bidens,pilosa,1.5,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_schimperi,Asteraceae,Bidens,schimperi,2.1908,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Bidens_trichosperma,Asteraceae,Bidens,trichosperma,3.339,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_tripartita,Asteraceae,Bidens,tripartita,2.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Bidens_vulgata,Asteraceae,Bidens,vulgata,7.1816,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Blennosperma_nanum,Asteraceae,Blennosperma,nanum,1.336,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Blennospora_drummondii,Asteraceae,Blennospora,drummondii,0.3644,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Blepharipappus_scaber,Asteraceae,Blepharipappus,scaber,1.0382,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Brachyscome_muelleri,Asteraceae,Brachyscome,muelleri,0.1412,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Calendula_arvensis,Asteraceae,Calendula,arvensis,6.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Calendula_pachysperma,Asteraceae,Calendula,pachysperma,31.485,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Calendula_palaestina,Asteraceae,Calendula,palaestina,20.64,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Callistephus_chinensis,Asteraceae,Callistephus,chinensis,2,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Calotis_cuneifolia,Asteraceae,Calotis,cuneifolia,0.71,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Calycadenia_multiglandulosa,Asteraceae,Calycadenia,multiglandulosa,1.187,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Calycadenia_oppositifolia,Asteraceae,Calycadenia,oppositifolia,0.78,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Calycadenia_pauciflora,Asteraceae,Calycadenia,pauciflora,0.84,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carduus_acanthoides,Asteraceae,Carduus,acanthoides,2.41,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carduus_nutans,Asteraceae,Carduus,nutans,3.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carduus_pycnocephalus,Asteraceae,Carduus,pycnocephalus,3.8964,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carduus_tenuiflorus,Asteraceae,Carduus,tenuiflorus,3.517,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carthamus_dentatus,Asteraceae,Carthamus,dentatus,18.087,Seed Information Database,SC,McPherson et al. (2004),Herb,Herb,GBIF
+Carthamus_flavescens,Asteraceae,Carthamus,flavescens,29.6,Seed Information Database,SI,Imrie et al. (1971),Herb,Herb,Engemann et al. (2016)
+Carthamus_lanatus,Asteraceae,Carthamus,lanatus,13.4,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carthamus_nitidus,Asteraceae,Carthamus,nitidus,16.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Carthamus_persicus,Asteraceae,Carthamus,persicus,14.218,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Carthamus_turkestanicus,Asteraceae,Carthamus,turkestanicus,28.65,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Catananche_lutea,Asteraceae,Catananche,lutea,2.2004,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Centaurea_aspera,Asteraceae,Centaurea,aspera,5.6464,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Centaurea_cyanus,Asteraceae,Centaurea,cyanus,4.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_jacea,Asteraceae,Centaurea,jacea,1.4965,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_melitensis,Asteraceae,Centaurea,melitensis,1.499,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_montana,Asteraceae,Centaurea,montana,14.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_nigra,Asteraceae,Centaurea,nigra,2.2314,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_scabiosa,Asteraceae,Centaurea,scabiosa,5.6264,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Centaurea_solstitialis,Asteraceae,Centaurea,solstitialis,2.0372,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Chaenactis_douglasii,Asteraceae,Chaenactis,douglasii,1.334,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Chaetanthera_euphrasioides,Asteraceae,Chaetanthera,euphrasioides,1.4546,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Chaetanthera_moenchioides,Asteraceae,Chaetanthera,moenchioides,1.3249,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Chiliotrichum_diffusum,Asteraceae,Chiliotrichum,diffusum,1.0534,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Chrysanthemum_indicum,Asteraceae,Chrysanthemum,indicum,0.36,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Chrysanthemum_segetum,Asteraceae,Chrysanthemum,segetum,1.82,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cichorium_intybus,Asteraceae,Cichorium,intybus,1.2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cirsium_acaule,Asteraceae,Cirsium,acaule,4.35,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Cirsium_arvense,Asteraceae,Cirsium,arvense,1.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cirsium_brevistylum,Asteraceae,Cirsium,brevistylum,1.724,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cirsium_dissectum,Asteraceae,Cirsium,dissectum,2.3748,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cirsium_palustre,Asteraceae,Cirsium,palustre,1.63,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cirsium_quercetorum,Asteraceae,Cirsium,quercetorum,7.3936,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Commidendrum_rotundifolium,Asteraceae,Commidendrum,rotundifolium,0.21,Seed Information Database,SI,Grossenbacher et al. (2017),Tree,NonHerb,https://www.iucnredlist.org/species/37591/67370300
+Commidendrum_spurium,Asteraceae,Commidendrum,spurium,1.047,Seed Information Database,SI,Grossenbacher et al. (2017),Tree,NonHerb,https://www.iucnredlist.org/species/37588/67370705
+Conyza_ramosissima,Asteraceae,Conyza,ramosissima,0.3892,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_basalis,Asteraceae,Coreopsis,basalis,0.9,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_bigelovii,Asteraceae,Coreopsis,bigelovii,1.47,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_californica,Asteraceae,Coreopsis,californica,0.427,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_calliopsidea,Asteraceae,Coreopsis,calliopsidea,1.078,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_douglasii,Asteraceae,Coreopsis,douglasii,0.392,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_gigantea,Asteraceae,Coreopsis,gigantea,1.089,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Coreopsis_grandiflora,Asteraceae,Coreopsis,grandiflora,2.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_lanceolata,Asteraceae,Coreopsis,lanceolata,1.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_linifolia,Asteraceae,Coreopsis,linifolia,0.352,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Coreopsis_maritima,Asteraceae,Coreopsis,maritima,2.465,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Coreopsis_pubescens,Asteraceae,Coreopsis,pubescens,1.3484,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_rosea,Asteraceae,Coreopsis,rosea,0.11,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_tinctoria,Asteraceae,Coreopsis,tinctoria,0.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_tripteris,Asteraceae,Coreopsis,tripteris,2.5652,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coreopsis_verticillata,Asteraceae,Coreopsis,verticillata,1.9488,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cosmos_bipinnatus,Asteraceae,Cosmos,bipinnatus,7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cotula_australis,Asteraceae,Cotula,australis,0.06,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cotula_coronopifolia,Asteraceae,Cotula,coronopifolia,0.089,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crepis_capillaris,Asteraceae,Crepis,capillaris,0.24,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crepis_foetida,Asteraceae,Crepis,foetida,0.5083,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crepis_paludosa,Asteraceae,Crepis,paludosa,0.64,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crepis_sancta,Asteraceae,Crepis,sancta,0.1522,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crepis_tectorum,Asteraceae,Crepis,tectorum,0.2688,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cynara_cardunculus,Asteraceae,Cynara,cardunculus,33.2,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Dendroseris_litoralis,Asteraceae,Dendroseris,litoralis,5.584,Seed Information Database,SC,Grossenbacher et al. (2017),Tree,NonHerb,Hind & Johnson (2006)
+Dimorphotheca_polyptera,Asteraceae,Dimorphotheca,polyptera,1,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Dimorphotheca_sinuata,Asteraceae,Dimorphotheca,sinuata,1.2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_angustifolia,Asteraceae,Echinacea,angustifolia,45.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_atrorubens,Asteraceae,Echinacea,atrorubens,4.084,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_pallida,Asteraceae,Echinacea,pallida,5.6604,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_purpurea,Asteraceae,Echinacea,purpurea,2.4268,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_sanguinea,Asteraceae,Echinacea,sanguinea,2.3272,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Echinacea_tennesseensis,Asteraceae,Echinacea,tennesseensis,4.2908,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Egletes_prostrata,Asteraceae,Egletes,prostrata,0.0972,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Emilia_discifolia,Asteraceae,Emilia,discifolia,0.2064,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Encelia_actoni,Asteraceae,Encelia,actoni,1.675,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Encelia_californica,Asteraceae,Encelia,californica,1.7,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Encelia_canescens,Asteraceae,Encelia,canescens,2.6241,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Encelia_farinosa,Asteraceae,Encelia,farinosa,1.4,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Encelia_frutescens,Asteraceae,Encelia,frutescens,3.3,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Encelia_halimifolia,Asteraceae,Encelia,halimifolia,1.6272,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Encelia_resinifera,Asteraceae,Encelia,resinifera,3.122,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Encelia_ventorum,Asteraceae,Encelia,ventorum,2.1944,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Encelia_virginensis,Asteraceae,Encelia,virginensis,1.661,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Enceliopsis_covillei,Asteraceae,Enceliopsis,covillei,1.15,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erigeron_bonariensis,Asteraceae,Erigeron,bonariensis,0.098,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Erigeron_canadensis,Asteraceae,Erigeron,canadensis,0.05,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Erigeron_glabellus,Asteraceae,Erigeron,glabellus,0.2801,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erigeron_strigosus,Asteraceae,Erigeron,strigosus,0.03,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erigeron_sumatrensis,Asteraceae,Erigeron,sumatrensis,0.03,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Eriophyllum_pringlei,Asteraceae,Eriophyllum,pringlei,0.593,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Eriophyllum_wallacei,Asteraceae,Eriophyllum,wallacei,0.276,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Eupatorium_cannabinum,Asteraceae,Eupatorium,cannabinum,0.2892,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Eupatorium_perfoliatum,Asteraceae,Eupatorium,perfoliatum,0.11,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Eupatorium_purpureum,Asteraceae,Eupatorium,purpureum,0.4564,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Eurybia_sibirica,Asteraceae,Eurybia,sibirica,0.7272,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Flaveria_anomala,Asteraceae,Flaveria,anomala,0.2493,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Flaveria_bidentis,Asteraceae,Flaveria,bidentis,0.21,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Flaveria_cronquistii,Asteraceae,Flaveria,cronquistii,0.094,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Flaveria_pringlei,Asteraceae,Flaveria,pringlei,0.125,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Flaveria_ramosissima,Asteraceae,Flaveria,ramosissima,0.085,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Flaveria_trinervia,Asteraceae,Flaveria,trinervia,0.5,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Gaillardia_pulchella,Asteraceae,Gaillardia,pulchella,1.7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Galinsoga_parviflora,Asteraceae,Galinsoga,parviflora,0.31,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Galinsoga_quadriradiata,Asteraceae,Galinsoga,quadriradiata,0.2484,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Gamochaeta_spiciformis,Asteraceae,Gamochaeta,spiciformis,0.0384,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Gazania_lichtensteinii,Asteraceae,Gazania,lichtensteinii,2.423,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Geraea_canescens,Asteraceae,Geraea,canescens,2.171,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Gerbera_jamesonii,Asteraceae,Gerbera,jamesonii,2.0571,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Gnephosis_tenuissima,Asteraceae,Gnephosis,tenuissima,0.0194,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Grindelia_camporum,Asteraceae,Grindelia,camporum,1.9837,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Grindelia_ciliata,Asteraceae,Grindelia,ciliata,2.368,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Grindelia_hirsutula,Asteraceae,Grindelia,hirsutula,4.0791,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Grindelia_stricta,Asteraceae,Grindelia,stricta,3.2535,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Gymnarrhena_micrantha,Asteraceae,Gymnarrhena,micrantha,1.7,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Haplopappus_paucidentatus,Asteraceae,Haplopappus,paucidentatus,1.5447,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Helianthus_angustifolius,Asteraceae,Helianthus,angustifolius,1.027,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_annuus,Asteraceae,Helianthus,annuus,38.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_anomalus,Asteraceae,Helianthus,anomalus,2.464,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_argophyllus,Asteraceae,Helianthus,argophyllus,4.634,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_bolanderi,Asteraceae,Helianthus,bolanderi,4.81,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_ciliaris,Asteraceae,Helianthus,ciliaris,1.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Helianthus_decapetalus,Asteraceae,Helianthus,decapetalus,5.1264,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_divaricatus,Asteraceae,Helianthus,divaricatus,4.2848,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_giganteus,Asteraceae,Helianthus,giganteus,3.228,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_glaucophyllus,Asteraceae,Helianthus,glaucophyllus,3.4852,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_grosseserratus,Asteraceae,Helianthus,grosseserratus,1.9768,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_laciniatus,Asteraceae,Helianthus,laciniatus,2.664,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_maximiliani,Asteraceae,Helianthus,maximiliani,2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_mollis,Asteraceae,Helianthus,mollis,4.7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_niveus,Asteraceae,Helianthus,niveus,2.1584,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Helianthus_nuttallii,Asteraceae,Helianthus,nuttallii,3.133,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_occidentalis,Asteraceae,Helianthus,occidentalis,2.2122,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_pauciflorus,Asteraceae,Helianthus,pauciflorus,7.7792,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_petiolaris,Asteraceae,Helianthus,petiolaris,3.3039,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_praecox,Asteraceae,Helianthus,praecox,1.7144,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Helianthus_pumilus,Asteraceae,Helianthus,pumilus,4.6,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_radula,Asteraceae,Helianthus,radula,2.2404,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_salicifolius,Asteraceae,Helianthus,salicifolius,5.9224,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helianthus_strumosus,Asteraceae,Helianthus,strumosus,5.272,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Helianthus_tuberosus,Asteraceae,Helianthus,tuberosus,3.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Helminthotheca_echioides,Asteraceae,Helminthotheca,echioides,0.703,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Heterotheca_subaxillaris,Asteraceae,Heterotheca,subaxillaris,0.6,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hieracium_alpinum,Asteraceae,Hieracium,alpinum,0.8128,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hieracium_antarcticum,Asteraceae,Hieracium,antarcticum,0.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hieracium_umbellatum,Asteraceae,Hieracium,umbellatum,0.449,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Holocarpha_obconica,Asteraceae,Holocarpha,obconica,2.108,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Holocarpha_virgata,Asteraceae,Holocarpha,virgata,1.252,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hulsea_algida,Asteraceae,Hulsea,algida,0.576,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hulsea_heterochroma,Asteraceae,Hulsea,heterochroma,0.6,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hypochaeris_arenaria,Asteraceae,Hypochaeris,arenaria,0.867,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Hypochaeris_glabra,Asteraceae,Hypochaeris,glabra,0.68,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hypochaeris_maculata,Asteraceae,Hypochaeris,maculata,1.45,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hypochaeris_radicata,Asteraceae,Hypochaeris,radicata,0.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hypochaeris_salzmanniana,Asteraceae,Hypochaeris,salzmanniana,0.7128,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lactuca_perennis,Asteraceae,Lactuca,perennis,1.1754,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lactuca_saligna,Asteraceae,Lactuca,saligna,0.73,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lactuca_serriola,Asteraceae,Lactuca,serriola,0.58,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lactuca_viminea,Asteraceae,Lactuca,viminea,2.1588,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lactuca_virosa,Asteraceae,Lactuca,virosa,0.8971,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lagophylla_minor,Asteraceae,Lagophylla,minor,0.26,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lagophylla_ramosissima,Asteraceae,Lagophylla,ramosissima,0.275,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lapsana_communis,Asteraceae,Lapsana,communis,0.8283,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lasthenia_glaberrima,Asteraceae,Lasthenia,glaberrima,0.244,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Layia_carnosa,Asteraceae,Layia,carnosa,0.884,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Layia_chrysanthemoides,Asteraceae,Layia,chrysanthemoides,0.743,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Layia_glandulosa,Asteraceae,Layia,glandulosa,0.72,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Layia_heterotricha,Asteraceae,Layia,heterotricha,0.388,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Layia_platyglossa,Asteraceae,Layia,platyglossa,0.727,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Leontodon_autumnalis,Asteraceae,Leontodon,autumnalis,0.7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Leontodon_hispidus,Asteraceae,Leontodon,hispidus,1.1158,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Leontodon_saxatilis,Asteraceae,Leontodon,saxatilis,0.593,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Leucanthemum_vulgare,Asteraceae,Leucanthemum,vulgare,0.42,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Leucochrysum_albicans,Asteraceae,Leucochrysum,albicans,1.0696,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Liatris_aspera,Asteraceae,Liatris,aspera,2.1,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Liatris_cylindracea,Asteraceae,Liatris,cylindracea,3.265,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Liatris_ligulistylis,Asteraceae,Liatris,ligulistylis,1.6164,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Liatris_scariosa,Asteraceae,Liatris,scariosa,2.98,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Liatris_spicata,Asteraceae,Liatris,spicata,2.9,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Logfia_gallica,Asteraceae,Logfia,gallica,0.02,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_elegans,Asteraceae,Madia,elegans,3.371,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_exigua,Asteraceae,Madia,exigua,0.589,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_glomerata,Asteraceae,Madia,glomerata,1.908,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_gracilis,Asteraceae,Madia,gracilis,1.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_radiata,Asteraceae,Madia,radiata,0.549,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Madia_sativa,Asteraceae,Madia,sativa,3.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Matricaria_discoidea,Asteraceae,Matricaria,discoidea,0.141,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Microseris_acuminata,Asteraceae,Microseris,acuminata,1.8,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_bigelovii,Asteraceae,Microseris,bigelovii,1.695,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_borealis,Asteraceae,Microseris,borealis,1.61,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_campestris,Asteraceae,Microseris,campestris,1.275,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_douglasii,Asteraceae,Microseris,douglasii,1.6968,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_elegans,Asteraceae,Microseris,elegans,1.086,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_heterocarpa,Asteraceae,Microseris,heterocarpa,0.61,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_laciniata,Asteraceae,Microseris,laciniata,1.4651,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Microseris_lanceolata,Asteraceae,Microseris,lanceolata,2.08,Seed Information Database,SI,Vijverberg et al. (1999),Herb,Herb,Engemann et al. (2016)
+Microseris_sylvatica,Asteraceae,Microseris,sylvatica,3.782,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Mikania_micrantha,Asteraceae,Mikania,micrantha,0.09,Seed Information Database,SI,Grossenbacher et al. (2017),Vine,NonHerb,Engemann et al. (2016)
+Montanoa_leucantha,Asteraceae,Montanoa,leucantha,3.1926,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Nassauvia_revoluta,Asteraceae,Nassauvia,revoluta,3.902,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Onopordum_illyricum,Asteraceae,Onopordum,illyricum,12.041,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Packera_aurea,Asteraceae,Packera,aurea,0.2556,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Packera_paupercula,Asteraceae,Packera,paupercula,0.184,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Pallenis_maritima,Asteraceae,Pallenis,maritima,0.3176,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Parthenium_integrifolium,Asteraceae,Parthenium,integrifolium,3.257,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Parthenium_tomentosum,Asteraceae,Parthenium,tomentosum,1.1151,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Perezia_recurvata,Asteraceae,Perezia,recurvata,2.4,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Picris_hieracioides,Asteraceae,Picris,hieracioides,1.064,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Pilosella_officinarum,Asteraceae,Pilosella,officinarum,0.185,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Pleurophyllum_hookeri,Asteraceae,Pleurophyllum,hookeri,0.9236,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Pulicaria_vulgaris,Asteraceae,Pulicaria,vulgaris,0.11,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Pyrrhopappus_carolinianus,Asteraceae,Pyrrhopappus,carolinianus,0.8676,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rudbeckia_fulgida,Asteraceae,Rudbeckia,fulgida,0.5,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rudbeckia_hirta,Asteraceae,Rudbeckia,hirta,0.9,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rutidosis_leiolepis,Asteraceae,Rutidosis,leiolepis,0.4484,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Rutidosis_leptorrhynchoides,Asteraceae,Rutidosis,leptorrhynchoides,1,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Scorzonera_humilis,Asteraceae,Scorzonera,humilis,4.0675,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_amygdalifolius,Asteraceae,Senecio,amygdalifolius,1.5524,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_anethifolius,Asteraceae,Senecio,anethifolius,0.5576,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_biserratus,Asteraceae,Senecio,biserratus,0.202,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_cruentus,Asteraceae,Senecio,cruentus,0.19,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_eboracensis,Asteraceae,Senecio,eboracensis,0.26,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_gawlerensis,Asteraceae,Senecio,gawlerensis,0.4878,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_glomeratus,Asteraceae,Senecio,glomeratus,0.118,Seed Information Database,SC,Grossenbacher et al. (2017),Terb,NonHerb,https://www.nzpcn.org.nz/flora/species/senecio-glomeratus-subsp-glomeratus/
+Senecio_glossanthus,Asteraceae,Senecio,glossanthus,0.395,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_gregorii,Asteraceae,Senecio,gregorii,3.524,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_hercynicus,Asteraceae,Senecio,hercynicus,1.0974,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_hypoleucus,Asteraceae,Senecio,hypoleucus,0.3992,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_inaequidens,Asteraceae,Senecio,inaequidens,0.2572,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Senecio_jacobaea,Asteraceae,Senecio,jacobaea,0.21,Seed Information Database,SI,Andersson (2001),Herb,Herb,Engemann et al. (2016)
+Senecio_leucanthemifolius,Asteraceae,Senecio,leucanthemifolius,0.2229,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_linearifolius,Asteraceae,Senecio,linearifolius,0.3049,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_madagascariensis,Asteraceae,Senecio,madagascariensis,0.251,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_magnificus,Asteraceae,Senecio,magnificus,2.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_minimus,Asteraceae,Senecio,minimus,0.1524,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_odoratus,Asteraceae,Senecio,odoratus,0.329,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_ovatus,Asteraceae,Senecio,ovatus,1.0515,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_pectinatus,Asteraceae,Senecio,pectinatus,1.0344,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_pinnatifolius,Asteraceae,Senecio,pinnatifolius,0.3797,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_quadridentatus,Asteraceae,Senecio,quadridentatus,0.137,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_radiolatus,Asteraceae,Senecio,radiolatus,0.3144,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_runcinifolius,Asteraceae,Senecio,runcinifolius,0.1416,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_squalidus,Asteraceae,Senecio,squalidus,0.2837,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_squarrosus,Asteraceae,Senecio,squarrosus,0.3302,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_sylvaticus,Asteraceae,Senecio,sylvaticus,0.25,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Senecio_vagus,Asteraceae,Senecio,vagus,1.0004,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_velleioides,Asteraceae,Senecio,velleioides,0.4736,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Senecio_vulgaris,Asteraceae,Senecio,vulgaris,0.21,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Silybum_marianum,Asteraceae,Silybum,marianum,24.2,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Simsia_amplexicaulis,Asteraceae,Simsia,amplexicaulis,2.2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Simsia_calva,Asteraceae,Simsia,calva,1.7,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Simsia_eurylepis,Asteraceae,Simsia,eurylepis,2.0008,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Simsia_foetida,Asteraceae,Simsia,foetida,2.4016,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Simsia_lagascaeformis,Asteraceae,Simsia,lagascaeformis,1.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Simsia_sanguinea,Asteraceae,Simsia,sanguinea,2.1632,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_canadensis,Asteraceae,Solidago,canadensis,0.1047,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_gigantea,Asteraceae,Solidago,gigantea,0.22,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_leiocarpa,Asteraceae,Solidago,leiocarpa,0.4704,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_nemoralis,Asteraceae,Solidago,nemoralis,0.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_rugosa,Asteraceae,Solidago,rugosa,0.1537,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solidago_simplex,Asteraceae,Solidago,simplex,0.492,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sonchus_arvensis,Asteraceae,Sonchus,arvensis,0.4684,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sonchus_asper,Asteraceae,Sonchus,asper,0.28,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sonchus_crassifolius,Asteraceae,Sonchus,crassifolius,0.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Sonchus_oleraceus,Asteraceae,Sonchus,oleraceus,0.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Stephanomeria_diegensis,Asteraceae,Stephanomeria,diegensis,0.3764,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_ciliatum,Asteraceae,Symphyotrichum,ciliatum,0.1904,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_ericoides,Asteraceae,Symphyotrichum,ericoides,1.3144,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_laeve,Asteraceae,Symphyotrichum,laeve,0.648,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_novae-angliae,Asteraceae,Symphyotrichum,novae-angliae,0.6596,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_novi-belgii,Asteraceae,Symphyotrichum,novi-belgii,0.466,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_patens,Asteraceae,Symphyotrichum,patens,0.523,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_puniceum,Asteraceae,Symphyotrichum,puniceum,0.2844,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Symphyotrichum_shortii,Asteraceae,Symphyotrichum,shortii,0.9224,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_subulatum,Asteraceae,Symphyotrichum,subulatum,0.1435,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Symphyotrichum_turbinellum,Asteraceae,Symphyotrichum,turbinellum,0.4716,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Tagetes_patula,Asteraceae,Tagetes,patula,3.02,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Taraxacum_aristum,Asteraceae,Taraxacum,aristum,0.6016,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Taraxacum_bessarabicum,Asteraceae,Taraxacum,bessarabicum,0.5635,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Taraxacum_officinale,Asteraceae,Taraxacum,officinale,0.7,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tephroseris_integrifolia,Asteraceae,Tephroseris,integrifolia,0.6159,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Tephroseris_longifolia,Asteraceae,Tephroseris,longifolia,0.5682,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Tolpis_barbata,Asteraceae,Tolpis,barbata,0.22,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tolpis_crassiuscula,Asteraceae,Tolpis,crassiuscula,0.272,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Townsendia_florifer,Asteraceae,Townsendia,florifer,1.0756,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Townsendia_montana,Asteraceae,Townsendia,montana,0.5644,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tragopogon_dubius,Asteraceae,Tragopogon,dubius,9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tragopogon_porrifolius,Asteraceae,Tragopogon,porrifolius,12.856,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tragopogon_pratensis,Asteraceae,Tragopogon,pratensis,5.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Tridax_procumbens,Asteraceae,Tridax,procumbens,0.68,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Uropappus_lindleyi,Asteraceae,Uropappus,lindleyi,1.5303,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Verbesina_helianthoides,Asteraceae,Verbesina,helianthoides,3.5544,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Verbesina_virgata,Asteraceae,Verbesina,virgata,0.9068,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Xanthisma_spinulosum,Asteraceae,Xanthisma,spinulosum,0.7512,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Xanthium_strumarium,Asteraceae,Xanthium,strumarium,54.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Zinnia_acerosa,Asteraceae,Zinnia,acerosa,1.3012,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aethionema_arabicum,Brassicaceae,Aethionema,arabicum,0.3429,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aethionema_carneum,Brassicaceae,Aethionema,carneum,0.3214,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Aethionema_heterocarpum,Brassicaceae,Aethionema,heterocarpum,0.5372,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Alliaria_petiolata,Brassicaceae,Alliaria,petiolata,3.02,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Alyssum_alyssoides,Brassicaceae,Alyssum,alyssoides,0.69,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Alyssum_damascenum,Brassicaceae,Alyssum,damascenum,0.794,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Alyssum_desertorum,Brassicaceae,Alyssum,desertorum,0.44,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Alyssum_simplex,Brassicaceae,Alyssum,simplex,0.834,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabidopsis_arenosa,Brassicaceae,Arabidopsis,arenosa,0.11,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabidopsis_halleri,Brassicaceae,Arabidopsis,halleri,0.145,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabidopsis_thaliana,Brassicaceae,Arabidopsis,thaliana,0.02,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_auriculata,Brassicaceae,Arabis,auriculata,0.0732,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_blepharophylla,Brassicaceae,Arabis,blepharophylla,0.472,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_caucasica,Brassicaceae,Arabis,caucasica,0.26,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_hirsuta,Brassicaceae,Arabis,hirsuta,0.1451,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_planisiliqua,Brassicaceae,Arabis,planisiliqua,0.1026,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_sagittata,Brassicaceae,Arabis,sagittata,0.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_scabra,Brassicaceae,Arabis,scabra,0.274,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_soyeri,Brassicaceae,Arabis,soyeri,0.291,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Arabis_verna,Brassicaceae,Arabis,verna,0.196,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Athysanus_pusillus,Brassicaceae,Athysanus,pusillus,0.175,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Barbarea_verna,Brassicaceae,Barbarea,verna,0.86,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Barbarea_vulgaris,Brassicaceae,Barbarea,vulgaris,0.7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Biscutella_didyma,Brassicaceae,Biscutella,didyma,2.0868,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Biscutella_laevigata,Brassicaceae,Biscutella,laevigata,4.167,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Biscutella_sempervirens,Brassicaceae,Biscutella,sempervirens,1.638,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Biscutella_valentina,Brassicaceae,Biscutella,valentina,1.8138554,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_campestris,Brassicaceae,Brassica,campestris,2,Seed Information Database,SI,Hatakeyama et al. (1998),Herb,Herb,GBIF
+Brassica_cretica,Brassicaceae,Brassica,cretica,3.5733,Seed Information Database,SI,Edh et al. (2019),Herb,Herb,GBIF
+Brassica_elongata,Brassicaceae,Brassica,elongata,0.8362,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Brassica_fruticulosa,Brassicaceae,Brassica,fruticulosa,0.2848,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Brassica_incana,Brassicaceae,Brassica,incana,4.8264,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Brassica_insularis,Brassicaceae,Brassica,insularis,3.4566,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_macrocarpa,Brassicaceae,Brassica,macrocarpa,4.652,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_nigra,Brassicaceae,Brassica,nigra,0.8,Seed Information Database,SI,Kitashiba & Nasrallah (2014),Herb,Herb,Engemann et al. (2016)
+Brassica_oleracea,Brassicaceae,Brassica,oleracea,2.85,Seed Information Database,SI,Kitashiba & Nasrallah (2014),Herb,Herb,Engemann et al. (2016)
+Brassica_oxyrrhina,Brassicaceae,Brassica,oxyrrhina,1.3984,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_repanda,Brassicaceae,Brassica,repanda,1.3964,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_rupestris,Brassicaceae,Brassica,rupestris,7.0104,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Brassica_tournefortii,Brassicaceae,Brassica,tournefortii,1.4,Seed Information Database,SC,Nishio & Hinata (1978),Herb,Herb,Engemann et al. (2016)
+Bunias_orientalis,Brassicaceae,Bunias,orientalis,24.7184,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cakile_arabica,Brassicaceae,Cakile,arabica,8.36,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Cakile_edentula,Brassicaceae,Cakile,edentula,9.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Calepina_irregularis,Brassicaceae,Calepina,irregularis,2.57,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Camelina_microcarpa,Brassicaceae,Camelina,microcarpa,0.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Camelina_sativa,Brassicaceae,Camelina,sativa,1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Capsella_bursa-pastoris,Brassicaceae,Capsella,bursa-pastoris,0.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Capsella_rubella,Brassicaceae,Capsella,rubella,0.0877193,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_amara,Brassicaceae,Cardamine,amara,0.36665,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_bellidifolia,Brassicaceae,Cardamine,bellidifolia,0.168,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_bulbifera,Brassicaceae,Cardamine,bulbifera,43.5,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_concatenata,Brassicaceae,Cardamine,concatenata,1.8624,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_flexuosa,Brassicaceae,Cardamine,flexuosa,0.18,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_glacialis,Brassicaceae,Cardamine,glacialis,0.499,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Cardamine_heptaphylla,Brassicaceae,Cardamine,heptaphylla,6.75,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_hirsuta,Brassicaceae,Cardamine,hirsuta,0.12,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_impatiens,Brassicaceae,Cardamine,impatiens,0.1344,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cardamine_pratensis,Brassicaceae,Cardamine,pratensis,0.37006667,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Carrichtera_annua,Brassicaceae,Carrichtera,annua,0.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Clypeola_aspera,Brassicaceae,Clypeola,aspera,4.724,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Clypeola_jonthlaspi,Brassicaceae,Clypeola,jonthlaspi,0.9508,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cochlearia_danica,Brassicaceae,Cochlearia,danica,0.231,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Cochlearia_officinalis,Brassicaceae,Cochlearia,officinalis,0.60966667,Seed Information Database,SI,Nordal & Lanne (1990),Herb,Herb,Engemann et al. (2016)
+Cochlearia_pyrenaica,Brassicaceae,Cochlearia,pyrenaica,1.09,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Coincya_wrightii,Brassicaceae,Coincya,wrightii,1.348,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Conringia_orientalis,Brassicaceae,Conringia,orientalis,2.4,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crambe_hispanica,Brassicaceae,Crambe,hispanica,6.7,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Crambe_tatarica,Brassicaceae,Crambe,tatarica,30,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Descurainia_pinnata,Brassicaceae,Descurainia,pinnata,0.1045,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Descurainia_richardsonii,Brassicaceae,Descurainia,richardsonii,0.108,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Descurainia_sophia,Brassicaceae,Descurainia,sophia,0.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_catholica,Brassicaceae,Diplotaxis,catholica,0.2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_erucoides,Brassicaceae,Diplotaxis,erucoides,0.2,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_harra,Brassicaceae,Diplotaxis,harra,0.09282,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_muralis,Brassicaceae,Diplotaxis,muralis,0.2378,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_siifolia,Brassicaceae,Diplotaxis,siifolia,0.3,Seed Information Database,SI,Batra et al. (1990),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_tenuifolia,Brassicaceae,Diplotaxis,tenuifolia,0.22,Seed Information Database,SI,Salisbury et al. (2017),Herb,Herb,Engemann et al. (2016)
+Diplotaxis_viminea,Brassicaceae,Diplotaxis,viminea,0.388,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_aizoides,Brassicaceae,Draba,aizoides,0.248,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_cinerea,Brassicaceae,Draba,cinerea,0.0802,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_funiculosa,Brassicaceae,Draba,funiculosa,0.1904,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Draba_incana,Brassicaceae,Draba,incana,0.126,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_incerta,Brassicaceae,Draba,incerta,0.066,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_muralis,Brassicaceae,Draba,muralis,0.04,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_nemorosa,Brassicaceae,Draba,nemorosa,0.04,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_norvegica,Brassicaceae,Draba,norvegica,0.1272,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_oxycarpa,Brassicaceae,Draba,oxycarpa,0.4104,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_reptans,Brassicaceae,Draba,reptans,0.037,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Draba_verna,Brassicaceae,Draba,verna,0.024,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Enarthrocarpus_arcuatus,Brassicaceae,Enarthrocarpus,arcuatus,1.05,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Eruca_vesicaria,Brassicaceae,Eruca,vesicaria,1,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erucaria_hispanica,Brassicaceae,Erucaria,hispanica,0.3,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erucaria_pinnata,Brassicaceae,Erucaria,pinnata,0.6652,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erucaria_rostrata,Brassicaceae,Erucaria,rostrata,0.26,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erucastrum_nasturtiifolium,Brassicaceae,Erucastrum,nasturtiifolium,0.3386,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erucastrum_virgatum,Brassicaceae,Erucastrum,virgatum,0.6656,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_asperum,Brassicaceae,Erysimum,asperum,0.45,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_capitatum,Brassicaceae,Erysimum,capitatum,1.01266667,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_cheiranthoides,Brassicaceae,Erysimum,cheiranthoides,0.2,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_cheiri,Brassicaceae,Erysimum,cheiri,1.4,Seed Information Database,SI,Bateman (1956),Herb,Herb,Engemann et al. (2016)
+Erysimum_insulare,Brassicaceae,Erysimum,insulare,1.688,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_linifolium,Brassicaceae,Erysimum,linifolium,0.324,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Erysimum_menziesii,Brassicaceae,Erysimum,menziesii,1.145,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Erysimum_repandum,Brassicaceae,Erysimum,repandum,0.26,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Heliophila_coronopifolia,Brassicaceae,Heliophila,coronopifolia,0.9285,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hesperis_matronalis,Brassicaceae,Hesperis,matronalis,2.0429,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Hesperis_tristis,Brassicaceae,Hesperis,tristis,2.61,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Hornungia_petraea,Brassicaceae,Hornungia,petraea,0.1528,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Iberis_odorata,Brassicaceae,Iberis,odorata,1.637,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Iberis_sempervirens,Brassicaceae,Iberis,sempervirens,2.47,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Iberis_umbellata,Brassicaceae,Iberis,umbellata,0.8,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_campestre,Brassicaceae,Lepidium,campestre,2.313,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_densiflorum,Brassicaceae,Lepidium,densiflorum,0.8,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_draba,Brassicaceae,Lepidium,draba,1.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lepidium_fremontii,Brassicaceae,Lepidium,fremontii,0.374,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Lepidium_latifolium,Brassicaceae,Lepidium,latifolium,0.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_montanum,Brassicaceae,Lepidium,montanum,0.5512,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lepidium_perfoliatum,Brassicaceae,Lepidium,perfoliatum,0.9,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_pseudohyssopifolium,Brassicaceae,Lepidium,pseudohyssopifolium,0.27,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Lepidium_ruderale,Brassicaceae,Lepidium,ruderale,0.2894,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Lepidium_spinosum,Brassicaceae,Lepidium,spinosum,1.45,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Malcolmia_africana,Brassicaceae,Malcolmia,africana,0.3,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Matthiola_incana,Brassicaceae,Matthiola,incana,1.5222,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Matthiola_longipetala,Brassicaceae,Matthiola,longipetala,0.197,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Matthiola_parviflora,Brassicaceae,Matthiola,parviflora,0.22,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Matthiola_tricuspidata,Brassicaceae,Matthiola,tricuspidata,0.4924,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Moricandia_arvensis,Brassicaceae,Moricandia,arvensis,0.761,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Myagrum_perfoliatum,Brassicaceae,Myagrum,perfoliatum,17.0462,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Nasturtium_officinale,Brassicaceae,Nasturtium,officinale,0.19,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Neslia_paniculata,Brassicaceae,Neslia,paniculata,3.1855,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Notoceras_bicorne,Brassicaceae,Notoceras,bicorne,0.364,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Pachycladon_novae-zelandiae,Brassicaceae,Pachycladon,novae-zelandiae,0.36,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Parrya_nudicaulis,Brassicaceae,Parrya,nudicaulis,3.904,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Physaria_rollinsii,Brassicaceae,Physaria,rollinsii,1.6592,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Pringlea_antiscorbutica,Brassicaceae,Pringlea,antiscorbutica,3.09552,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Raphanus_raphanistrum,Brassicaceae,Raphanus,raphanistrum,29.15,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rapistrum_rugosum,Brassicaceae,Rapistrum,rugosum,1.8,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rorippa_amphibia,Brassicaceae,Rorippa,amphibia,0.088,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rorippa_austriaca,Brassicaceae,Rorippa,austriaca,0.0568,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rorippa_palustris,Brassicaceae,Rorippa,palustris,0.0869,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Rorippa_sylvestris,Brassicaceae,Rorippa,sylvestris,0.194,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sinapis_arvensis,Brassicaceae,Sinapis,arvensis,1.7,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sisymbrium_altissimum,Brassicaceae,Sisymbrium,altissimum,0.2,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sisymbrium_irio,Brassicaceae,Sisymbrium,irio,0.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sisymbrium_loeselii,Brassicaceae,Sisymbrium,loeselii,0.14,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sisymbrium_officinale,Brassicaceae,Sisymbrium,officinale,0.32,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Sisymbrium_orientale,Brassicaceae,Sisymbrium,orientale,0.243,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Stanleya_pinnata,Brassicaceae,Stanleya,pinnata,1.336,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Streptanthus_tortuosus,Brassicaceae,Streptanthus,tortuosus,0.618,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Subularia_aquatica,Brassicaceae,Subularia,aquatica,0.1214,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Teesdalia_nudicaulis,Brassicaceae,Teesdalia,nudicaulis,0.293,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Thlaspi_arvense,Brassicaceae,Thlaspi,arvense,1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Turritis_glabra,Brassicaceae,Turritis,glabra,0.0506,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Acnistus_arborescens,Solanaceae,Acnistus,arborescens,0.6328,Seed Information Database,SC,Goldberg et al. (2010),Tree,NonHerb,GBIF
+Atropa_belladonna,Solanaceae,Atropa,belladonna,0.83,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Capsicum_annuum,Solanaceae,Capsicum,annuum,3.3111,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Capsicum_frutescens,Solanaceae,Capsicum,frutescens,5,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Cestrum_aurantiacum,Solanaceae,Cestrum,aurantiacum,4.303,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Cestrum_fasciculatum,Solanaceae,Cestrum,fasciculatum,1.9132,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Cestrum_nocturnum,Solanaceae,Cestrum,nocturnum,3.236,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Datura_discolor,Solanaceae,Datura,discolor,6.8,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Datura_innoxia,Solanaceae,Datura,innoxia,11.32,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Datura_inoxia,Solanaceae,Datura,inoxia,33.4,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Datura_leichhardtii,Solanaceae,Datura,leichhardtii,6.5732,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Datura_metel,Solanaceae,Datura,metel,15.8,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,Engemann et al. (2016)
+Datura_quercifolia,Solanaceae,Datura,quercifolia,7.1,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Datura_stramonium,Solanaceae,Datura,stramonium,8.1,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Datura_wrightii,Solanaceae,Datura,wrightii,37.5,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Hyoscyamus_albus,Solanaceae,Hyoscyamus,albus,0.5164,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Hyoscyamus_muticus,Solanaceae,Hyoscyamus,muticus,0.5176,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Hyoscyamus_niger,Solanaceae,Hyoscyamus,niger,0.6,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Lycium_andersonii,Solanaceae,Lycium,andersonii,1.8942,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,Engemann et al. (2016)
+Lycium_brevipes,Solanaceae,Lycium,brevipes,0.569,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Lycium_californicum,Solanaceae,Lycium,californicum,3.804,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Lycium_chinense,Solanaceae,Lycium,chinense,2.652,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Lycium_cinereum,Solanaceae,Lycium,cinereum,1.9848,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Lycium_cooperi,Solanaceae,Lycium,cooperi,2.557,Seed Information Database,SI,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Lycium_ferocissimum,Solanaceae,Lycium,ferocissimum,2.536,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,Engemann et al. (2016)
+Mandragora_officinarum,Solanaceae,Mandragora,officinarum,11.7,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_alata,Solanaceae,Nicotiana,alata,0.1,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Nicotiana_attenuata,Solanaceae,Nicotiana,attenuata,0.135,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_benthamiana,Solanaceae,Nicotiana,benthamiana,0.0512,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_corymbosa,Solanaceae,Nicotiana,corymbosa,0.138,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_excelsior,Solanaceae,Nicotiana,excelsior,0.1408,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_forsteri,Solanaceae,Nicotiana,forsteri,0.0708,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Nicotiana_glutinosa,Solanaceae,Nicotiana,glutinosa,0.0424,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Nicotiana_goodspeedii,Solanaceae,Nicotiana,goodspeedii,0.0899,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_gossei,Solanaceae,Nicotiana,gossei,0.0784,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_maritima,Solanaceae,Nicotiana,maritima,0.166,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_megalosiphon,Solanaceae,Nicotiana,megalosiphon,0.3114,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_obtusifolia,Solanaceae,Nicotiana,obtusifolia,0.07,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_occidentalis,Solanaceae,Nicotiana,occidentalis,0.1023,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_plumbaginifolia,Solanaceae,Nicotiana,plumbaginifolia,0.0224,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Nicotiana_quadrivalvis,Solanaceae,Nicotiana,quadrivalvis,0.114,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Nicotiana_repanda,Solanaceae,Nicotiana,repanda,0.0552,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Nicotiana_rosulata,Solanaceae,Nicotiana,rosulata,0.14006,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_simulans,Solanaceae,Nicotiana,simulans,0.1028,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_solanifolia,Solanaceae,Nicotiana,solanifolia,0.0876,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_suaveolens,Solanaceae,Nicotiana,suaveolens,0.148223,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_umbratica,Solanaceae,Nicotiana,umbratica,0.02,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_undulata,Solanaceae,Nicotiana,undulata,0.202,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nicotiana_velutina,Solanaceae,Nicotiana,velutina,0.103,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Nolana_acuminata,Solanaceae,Nolana,acuminata,1.3164,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Nolana_rostrata,Solanaceae,Nolana,rostrata,44.03,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Petunia_altiplana,Solanaceae,Petunia,altiplana,0.2,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_bajeensis,Solanaceae,Petunia,bajeensis,0.09,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_exserta,Solanaceae,Petunia,exserta,0.042,Seed Information Database,SC,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_guarapuavensis,Solanaceae,Petunia,guarapuavensis,0.099,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_inflata,Solanaceae,Petunia,inflata,0.073,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_integrifolia,Solanaceae,Petunia,integrifolia,0.125,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_interior,Solanaceae,Petunia,interior,0.132,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_littoralis,Solanaceae,Petunia,littoralis,0.126,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_mantiqueirensis,Solanaceae,Petunia,mantiqueirensis,0.171,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_occidentalis,Solanaceae,Petunia,occidentalis,0.028,Morokawa et al. (2005),SC,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_riograndensis,Solanaceae,Petunia,riograndensis,0.211,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_saxicola,Solanaceae,Petunia,saxicola,0.077,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Petunia_scheideana,Solanaceae,Petunia,scheideana,0.23,Morokawa et al. (2005),SI,Morokawa et al. (2005),Herb,Herb,Stehmann et al. (2009)
+Physalis_angulata,Solanaceae,Physalis,angulata,1.122,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_cinerascens,Solanaceae,Physalis,cinerascens,1.1516,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_crassifolia,Solanaceae,Physalis,crassifolia,0.79152,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_heterophylla,Solanaceae,Physalis,heterophylla,2.023,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_longifolia,Solanaceae,Physalis,longifolia,0.97,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_philadelphica,Solanaceae,Physalis,philadelphica,1.529,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_pruinosa,Solanaceae,Physalis,pruinosa,0.82,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_pubescens,Solanaceae,Physalis,pubescens,0.636,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Physalis_pumila,Solanaceae,Physalis,pumila,1.5284,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Physalis_virginiana,Solanaceae,Physalis,virginiana,1.53,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Physalis_viscosa,Solanaceae,Physalis,viscosa,0.445,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,Engemann et al. (2016)
+Schizanthus_alpestris,Solanaceae,Schizanthus,alpestris,0.436,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_candidus,Solanaceae,Schizanthus,candidus,0.5482,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_grahamii,Solanaceae,Schizanthus,grahamii,1.2261,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_integrifolius,Solanaceae,Schizanthus,integrifolius,1.3724,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_lacteus,Solanaceae,Schizanthus,lacteus,0.9068,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_litoralis,Solanaceae,Schizanthus,litoralis,0.4924,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Schizanthus_pinnatus,Solanaceae,Schizanthus,pinnatus,0.489,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Solanum_aculeastrum,Solanaceae,Solanum,aculeastrum,7.64,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_aculeatissimum,Solanaceae,Solanum,aculeatissimum,3.0663,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_aethiopicum,Solanaceae,Solanum,aethiopicum,2.7,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_americanum,Solanaceae,Solanum,americanum,0.51,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_anguivi,Solanaceae,Solanum,anguivi,1.84,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_anomalum,Solanaceae,Solanum,anomalum,1.6,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Solanum_aviculare,Solanaceae,Solanum,aviculare,0.8,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_campanulatum,Solanaceae,Solanum,campanulatum,1.2596,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_capense,Solanaceae,Solanum,capense,2.6705,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Solanum_capsiciforme,Solanaceae,Solanum,capsiciforme,1.212,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Solanum_capsicoides,Solanaceae,Solanum,capsicoides,2.3,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_carolinense,Solanaceae,Solanum,carolinense,2.4452,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_chenopodinum,Solanaceae,Solanum,chenopodinum,5.477193,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Solanum_chippendalei,Solanaceae,Solanum,chippendalei,4.436,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_cinereum,Solanaceae,Solanum,cinereum,2.537,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_clarkiae,Solanaceae,Solanum,clarkiae,2.7945,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_cleistogamum,Solanaceae,Solanum,cleistogamum,0.694,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_crinitum,Solanaceae,Solanum,crinitum,5.5108,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_crispum,Solanaceae,Solanum,crispum,2.921,Seed Information Database,SI,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_dasyphyllum,Solanaceae,Solanum,dasyphyllum,3.21,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_dimidiatum,Solanaceae,Solanum,dimidiatum,8.41,Seed Information Database,SI,Grossenbacher et al. (2017),Herb,Herb,Engemann et al. (2016)
+Solanum_ditrichum,Solanaceae,Solanum,ditrichum,0.973154,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Solanum_diversiflorum,Solanaceae,Solanum,diversiflorum,3.46232,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_dulcamara,Solanaceae,Solanum,dulcamara,26,Seed Information Database,SC,Goldberg et al. (2010),Vine,NonHerb,GBIF
+Solanum_echinatum,Solanaceae,Solanum,echinatum,0.9196,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_erianthum,Solanaceae,Solanum,erianthum,0.638,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_giganteum,Solanaceae,Solanum,giganteum,2.695,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_hindsianum,Solanaceae,Solanum,hindsianum,4.014,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_incanum,Solanaceae,Solanum,incanum,3.8,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_laciniatum,Solanaceae,Solanum,laciniatum,2,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_linnaeanum,Solanaceae,Solanum,linnaeanum,4.86,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_macrocarpon,Solanaceae,Solanum,macrocarpon,3.3,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_mammosum,Solanaceae,Solanum,mammosum,9.342188,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_marginatum,Solanaceae,Solanum,marginatum,3.0016,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_mauritianum,Solanaceae,Solanum,mauritianum,1.15,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_myriacanthum,Solanaceae,Solanum,myriacanthum,4.162,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_nemophilum,Solanaceae,Solanum,nemophilum,0.8624,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_nigrum,Solanaceae,Solanum,nigrum,0.7405,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_opacum,Solanaceae,Solanum,opacum,0.53,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_prinophyllum,Solanaceae,Solanum,prinophyllum,0.8544,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_pseudocapsicum,Solanaceae,Solanum,pseudocapsicum,3,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_quitoense,Solanaceae,Solanum,quitoense,1.8,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_repandum,Solanaceae,Solanum,repandum,1.790164,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_retroflexum,Solanaceae,Solanum,retroflexum,1.1178,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_rostratum,Solanaceae,Solanum,rostratum,2.63,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_seaforthianum,Solanaceae,Solanum,seaforthianum,1.97,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_simile,Solanaceae,Solanum,simile,1.636,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Solanum_sitiens,Solanaceae,Solanum,sitiens,2.4076,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_stenophyllidium,Solanaceae,Solanum,stenophyllidium,0.954,Seed Information Database,SI,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_supinum,Solanaceae,Solanum,supinum,3.6626,Seed Information Database,SC,Grossenbacher et al. (2017),Herb,Herb,GBIF
+Solanum_terminale,Solanaceae,Solanum,terminale,1.306,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_tomentosum,Solanaceae,Solanum,tomentosum,3.3412,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_torvum,Solanaceae,Solanum,torvum,1,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,Engemann et al. (2016)
+Solanum_triflorum,Solanaceae,Solanum,triflorum,1,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_trisectum,Solanaceae,Solanum,trisectum,5.5299,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_vescum,Solanaceae,Solanum,vescum,1.90756,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Solanum_viarum,Solanaceae,Solanum,viarum,2.31,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
+Solanum_vicinum,Solanaceae,Solanum,vicinum,0.678,Seed Information Database,SC,Grossenbacher et al. (2017),Shrub,NonHerb,GBIF
+Solanum_villosum,Solanaceae,Solanum,villosum,0.85375,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_virginianum,Solanaceae,Solanum,virginianum,2.01,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Solanum_wallacei,Solanaceae,Solanum,wallacei,0.647,Seed Information Database,SC,Goldberg et al. (2010),Herb,Herb,GBIF
+Withania_somnifera,Solanaceae,Withania,somnifera,1.3,Seed Information Database,SC,Goldberg et al. (2010),Shrub,NonHerb,GBIF
